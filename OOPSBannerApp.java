@@ -1,4 +1,3 @@
-public class OOPSBannerApp{
-public void main(String[] args){
-}
-}
+public class OOPSBannerApp {
+	public static void main(Sring args[] )
+	System.out.println("OOPS");
